@@ -1,3 +1,3 @@
 # COMP2000
 
-Run Main.java file to see simulation.
+Use the files not in the partilce simulator folder
